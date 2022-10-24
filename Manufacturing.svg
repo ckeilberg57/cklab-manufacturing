@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="670 -8 850 850" width="850" height="850">
+  <defs>
+    <linearGradient x1="0" x2="1" id="Gradient" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fbb93e"/>
+      <stop offset="1" stop-color="white"/>
+    </linearGradient>
+    <linearGradient id="Obj_Gradient" xl:href="#Gradient" gradientTransform="translate(1095 -8) rotate(90) scale(850)"/>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.21\n2022-10-24 18:54:07 +0000</metadata>
+  <g id="Canvas_1" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>Canvas 1</title>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Group_8">
+        <g id="Graphic_2">
+          <path d="M 670 -8 L 670 162 C 712.5 587 840 629.5 1095 842 C 1350 629.5 1477.5 587 1520 162 L 1520 -8 C 1350 34.5 1328.75 55.75 1095 77 C 861.25 55.75 840 34.5 670 -8" fill="url(#Obj_Gradient)"/>
+        </g>
+        <g id="Graphic_6">
+          <text transform="translate(835.0723 126)" fill="#003776">
+            <tspan font-family="Papyrus" font-size="72" fill="#003776" x="25.20703" y="68">Manufacturing</tspan>
+            <tspan font-family="Papyrus" font-size="72" fill="#003776" x="0" y="179">Expert-On-Call</tspan>
+          </text>
+        </g>
+        <g id="Graphic_7">
+          <text transform="translate(815.0977 405)" fill="#003776">
+            <tspan font-family="Papyrus" font-size="48" fill="#003776" x="103.71094" y="45">Founded in 2022</tspan>
+            <tspan font-family="Papyrus" font-size="48" fill="#003776" x="0" y="119">ACME, inc. offers experts</tspan>
+            <tspan font-family="Papyrus" font-size="48" fill="#003776" x="37.746094" y="193">at the touch of a finger</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
